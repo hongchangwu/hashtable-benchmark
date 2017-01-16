@@ -1,5 +1,7 @@
 # Haskell Hash Table Benchmark
 
+[![Build Status](https://travis-ci.org/hongchangwu/hashtable-benchmark.svg?branch=master)](https://travis-ci.org/hongchangwu/hashtable-benchmark)
+
 Benchmark of hash table implementations in Haskell:
 
 - `Data.Map`
