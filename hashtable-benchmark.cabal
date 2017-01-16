@@ -1,5 +1,5 @@
 name:                hashtable-benchmark
-version:             0.1.0.0
+version:             0.1
 synopsis:            Benchmark of hash table implementations in Haskell
 Description:         Please see README.md
 homepage:            https://github.com/hongchangwu/hashtable-benchmark#readme
@@ -16,8 +16,8 @@ cabal-version:       >=1.10
 executable benchmark
   hs-source-dirs:      src
   main-is:             Main.hs
-  ghc-options:         -O2 -fno-full-laziness -threaded -rtsopts -with-rtsopts=-N -Wall
-  build-depends:       base
+  ghc-options:         -fno-full-laziness -threaded -rtsopts -with-rtsopts=-N -Wall
+  build-depends:       base >=4.5 && <5
                      , containers
                      , criterion
                      , hashtables
