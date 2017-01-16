@@ -10,6 +10,7 @@ Benchmark of hash table implementations in Haskell:
 ## Build
 
 ```
+stack setup
 stack build
 ```
 
