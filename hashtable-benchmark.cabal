@@ -1,5 +1,5 @@
 name:                hashtable-benchmark
-version:             0.1
+version:             0.1.1
 synopsis:            Benchmark of hash table implementations
 description:         This package provides benchmark of several popular
                      implementations of hash table like containers.
