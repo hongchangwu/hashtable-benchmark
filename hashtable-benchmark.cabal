@@ -14,7 +14,7 @@ build-type:          Simple
 extra-source-files:  README.md
 cabal-version:       >=1.10
 
-executable benchmark
+executable hashtable-benchmark
   hs-source-dirs:      src
   main-is:             Main.hs
   ghc-options:         -fno-full-laziness -threaded -rtsopts -with-rtsopts=-N -Wall
