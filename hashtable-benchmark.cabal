@@ -1,7 +1,8 @@
 name:                hashtable-benchmark
 version:             0.1
-synopsis:            Benchmark of hash table implementations in Haskell
-Description:         Please see README.md
+synopsis:            Benchmark of hash table implementations
+description:         This package provides benchmark of several popular
+                     implementations of hash table like containers.
 homepage:            https://github.com/hongchangwu/hashtable-benchmark#readme
 license:             BSD3
 license-file:        LICENSE
