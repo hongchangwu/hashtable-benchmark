@@ -8,7 +8,7 @@ license-file:        LICENSE
 author:              Hongchang Wu
 maintainer:          wuhc85@gmail.com
 copyright:           Copyright (c) 2017 Hongchang Wu
-category:            Benchmarking
+category:            Benchmarking, Performance
 build-type:          Simple
 extra-source-files:  README.md
 cabal-version:       >=1.10
